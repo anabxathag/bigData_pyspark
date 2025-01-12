@@ -1,0 +1,1 @@
+Cloud Installation, development, maintenance and management of Big Data. Basic Data Analysis using SQL, MapReduce, and in-memory processing on cluster. Data Analysis on structued data and unstrucutured data. Big Data on cloud computing.

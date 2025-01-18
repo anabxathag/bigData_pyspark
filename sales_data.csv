@@ -1,7 +1,0 @@
-store_id,product_id,product_name,quantity_sold,sale_date
-1,A123,Apple,50,2024-11-01
-2,B456,Banana,30,2024-11-02
-1,A123,Apple,20,2024-11-03
-3,C789,Carrot,40,2024-11-01
-2,B456,Banana,10,2024-11-03
-3,C789,Carrot,15,2024-11-02
